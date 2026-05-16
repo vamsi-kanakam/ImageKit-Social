@@ -1,4 +1,4 @@
-# ImageKit Feed API
+# ImageKit Social
 
 FastAPI backend for authenticated media uploads backed by ImageKit and SQLite.
 
